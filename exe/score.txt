@@ -1,0 +1,7 @@
+#Fri Jul 30 23:47:32 CST 2010
+secondLevelName=wizard
+secondLevel=9999
+thirdLevel=9999
+firstLevel=9999
+thirdLevelName=wizard
+firstLevelName=wizard
